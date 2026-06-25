@@ -55,7 +55,7 @@ Vikport está siendo constituida como **Sociedad por Acciones Simplificada (S.A.
 
 ### Contacto
 
-- 🌐 [vikport.carrd.co](https://vikport.carrd.co)
+- 🌐 [vikport.com](https://vikport.com)
 - 💼 [linkedin.com/company/vikport](https://linkedin.com/company/vikport)
 
 ---
@@ -117,5 +117,5 @@ Vikport is being incorporated as a **Sociedad por Acciones Simplificada (S.A.S.)
 
 ### Contact
 
-- 🌐 [vikport.carrd.co](https://vikport.carrd.co)
+- 🌐 [vikport.com](https://vikport.com)
 - 💼 [linkedin.com/company/vikport](https://linkedin.com/company/vikport)
